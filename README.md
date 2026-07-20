@@ -1,18 +1,18 @@
 <div align="center">
-  <img width="1610" height="616" alt="image" src="https://github.com/user-attachments/assets/f50179d2-7a34-4aef-8ec8-998827c82a19" />
+  <img width="1200" height="630" alt="Veerabrahmam Sangani - Full Stack Developer portfolio preview" src="https://veerunjoys-portifolio.vercel.app/api/og" />
   <h1 align="center">🌌 3D Interactive Developer Portfolio</h1>
 
   <p align="center">
     A highly interactive, visually stunning, and performance-optimized 3D portfolio built to showcase modern Full-Stack capabilities.<br/>
-    <strong>Explore the Live Experience:</strong> <a href="https://veerunjoys.vercel.app">veerunjoys.vercel.app</a>
+    <strong>Explore the Live Experience:</strong> <a href="https://veerunjoys-portifolio.vercel.app">veerunjoys-portifolio.vercel.app</a>
   </p>
 
   <p align="center">
-    <a href="https://veerunjoys.vercel.app"><img src="https://img.shields.io/website?url=https%3A%2F%2Fveerunjoys.vercel.app&style=for-the-badge&label=Vercel+Deploy&color=success" alt="Deploy Status" /></a>
-    <a href="https://github.com/veerunjoys/veerunjoys/issues"><img src="https://img.shields.io/github/issues/veerunjoys/veerunjoys?style=for-the-badge&color=red" alt="Issues" /></a>
-    <a href="https://github.com/veerunjoys/veerunjoys/stargazers"><img src="https://img.shields.io/github/stars/veerunjoys/veerunjoys?style=for-the-badge&color=yellow" alt="Stars" /></a>
-    <a href="https://github.com/veerunjoys/veerunjoys/network/members"><img src="https://img.shields.io/github/forks/veerunjoys/veerunjoys?style=for-the-badge&color=orange" alt="Forks" /></a>
-    <a href="https://github.com/veerunjoys/veerunjoys/commits/main"><img src="https://img.shields.io/github/last-commit/veerunjoys/veerunjoys?style=for-the-badge&color=blue" alt="Last Commit" /></a>
+    <a href="https://veerunjoys-portifolio.vercel.app"><img src="https://img.shields.io/website?url=https%3A%2F%2Fveerunjoys-portifolio.vercel.app&style=for-the-badge&label=Vercel+Deploy&color=success" alt="Deploy Status" /></a>
+    <a href="https://github.com/veerunjoys/veerunjoys_portifolio/issues"><img src="https://img.shields.io/github/issues/veerunjoys/veerunjoys_portifolio?style=for-the-badge&color=red" alt="Issues" /></a>
+    <a href="https://github.com/veerunjoys/veerunjoys_portifolio/stargazers"><img src="https://img.shields.io/github/stars/veerunjoys/veerunjoys_portifolio?style=for-the-badge&color=yellow" alt="Stars" /></a>
+    <a href="https://github.com/veerunjoys/veerunjoys_portifolio/network/members"><img src="https://img.shields.io/github/forks/veerunjoys/veerunjoys_portifolio?style=for-the-badge&color=orange" alt="Forks" /></a>
+    <a href="https://github.com/veerunjoys/veerunjoys_portifolio/commits/main"><img src="https://img.shields.io/github/last-commit/veerunjoys/veerunjoys_portifolio?style=for-the-badge&color=blue" alt="Last Commit" /></a>
   </p>
 
   <p align="center">
@@ -114,7 +114,7 @@ Have a highly demanding web application to build, or looking to augment your dev
 
 - **LinkedIn:** [Veeru Sangani](https://linkedin.com/in/veerabrahmam-sangani)
 - **GitHub:** [@veerunjoys](https://github.com/veerunjoys)
-- **Live Site:** [veerunjoys.vercel.app](https://veerunjoys.vercel.app)
+- **Live Site:** [veerunjoys-portifolio.vercel.app](https://veerunjoys-portifolio.vercel.app)
 
 <br/>
 <div align="center">
