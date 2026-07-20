@@ -30,7 +30,7 @@ const config = {
   githubRepo: "veerunjoys",
 
   get ogImg() {
-    return this.site + "/assets/seo/og-image.png";
+    return this.site + "/api/og";
   },
   social: {
     linkedin: "https://www.linkedin.com/in/veerabrahmam-sangani",
