@@ -23,7 +23,7 @@ const config = {
   ],
   author: "Veerabrahmam Sangani",
   email: "veerusangani89@gmail.com",
-  site: "https://ferhatdev.vercel.app",
+  site: "https://veerunjoys-portifolio.vercel.app",
 
   // for github stars button
   githubUsername: "veerunjoys",
