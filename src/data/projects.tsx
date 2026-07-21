@@ -219,7 +219,6 @@ const projects: Project[] = [
       ],
     },
     github: "https://github.com/veerunjoys/chatappfrontend",
-    live: "https://mernapp-ecru.vercel.app/",
     get content() {
       return (
         <div>

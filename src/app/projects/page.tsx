@@ -12,7 +12,6 @@ const PROJECTS = [
     id: 2,
     name: "PERN Stack Chat Platform",
     description: `A communication platform built with React, Express, PostgreSQL, and Socket.io. Includes typing indicators, file sharing, and private/public chat rooms.`,
-    link: "https://mernapp-ecru.vercel.app/",
     images: [
       "/assets/projects-screenshots/mern-chat/mern1.png",
       "/assets/projects-screenshots/mern-chat/mern2.png",
@@ -81,13 +80,15 @@ function Page() {
                     {project.description}
                   </p>
                 </div>
-                <Link
-                  href={project.link}
-                  target="_blank"
-                  className="text-xs text-blue-400 hover:text-blue-300 mt-4 inline-block font-mono bg-blue-500/10 px-3 py-1.5 rounded-md w-fit border border-blue-500/20"
-                >
-                  Visit Project →
-                </Link>
+                {project.link && (
+                  <Link
+                    href={project.link}
+                    target="_blank"
+                    className="text-xs text-blue-400 hover:text-blue-300 mt-4 inline-block font-mono bg-blue-500/10 px-3 py-1.5 rounded-md w-fit border border-blue-500/20"
+                  >
+                    Visit Project →
+                  </Link>
+                )}
               </div>
             </li>
           ))}
